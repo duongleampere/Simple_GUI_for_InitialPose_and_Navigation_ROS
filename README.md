@@ -7,4 +7,5 @@ You have to synchronize the coordinate system of your map to that of real enviro
 
 ![GUI](https://user-images.githubusercontent.com/69660620/129465729-3f3d7e16-bfb8-4f67-83fd-a1ab157af164.png)
 
-![image](https://user-images.githubusercontent.com/69660620/129465996-f5c59605-3df7-4160-b152-92f533021129.png)
+![ezgif-7-fa289a21a67f](https://user-images.githubusercontent.com/69660620/129519144-1af3afa0-c8c9-41f5-8a79-d783413e5fab.gif)
+
